@@ -1,5 +1,4 @@
 .env
 app.log
-chat_history.json
 venv
 __pycache__/
