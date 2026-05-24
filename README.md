@@ -18,7 +18,7 @@ It allows you to chat with a large language model directly from the command line
 
 ## 🛠️ Tech Stack
 
-- Python 3.10+
+- Python 3.14.5
 - OpenAI SDK (Groq-compatible API)
 - python-dotenv
 - JSON for storage
